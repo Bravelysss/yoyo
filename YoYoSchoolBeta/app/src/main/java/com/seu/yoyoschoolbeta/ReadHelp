@@ -1,0 +1,4 @@
+
+Tabs+viewpager+fragment实现tabs滑动，用SlidingTabLayout与SlidingTabStrip实现，
+在layout中直接<com.seu.yoyoschoolbeta.view.SlidingTabs.SlidingTabLayout即可，可参考fragment_free_goods
+可设置tabs滑动的间隔线与指导线的颜色，大小，背景等，实例可参考FreeGoodsFragment。
